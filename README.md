@@ -18,6 +18,8 @@ Suggestion: Follow instructions. When you finish your first attempt at coding, p
 
 By now, you should have taken the time to correct the HTML version of your résumé based on feedback from your professor. You may choose to (or have to) modify your HTML in order for a design in CSS to take hold. Adjustments to your HTML are permitted.
 
+*Note:* If your design does not warrant navigation (i.e. the design is, say, left-aligned, and won't shift content to the top), you may remove the navigation from your HTML.
+
 Do not make the same mistakes you made on the first project. Any repeated mistakes from the HTML project will receive a general deduction.
 
 
